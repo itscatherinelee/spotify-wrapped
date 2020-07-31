@@ -3,7 +3,9 @@ import React, {Component} from "react";
 class LandingPage extends Component {
   render() {
     return (
-      <h> hello </h>
+      <div className = "container">
+        <p>fuck me up</p>
+      </div>
     );
   }
 }
